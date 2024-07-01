@@ -11,12 +11,12 @@ import {getAuth} from 'firebase/auth'
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyD9Zku6GNlP5ciJ_QBNbnZ35j-U6qOqUjs",
-    authDomain: "nextjs-project-c569a.firebaseapp.com",
-    projectId: "nextjs-project-c569a",
-    storageBucket: "nextjs-project-c569a.appspot.com",
-    messagingSenderId: "153860734382",
-    appId: "1:153860734382:web:fdce0658e1be5c1ca51c3f"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
 
 
